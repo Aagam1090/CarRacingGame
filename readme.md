@@ -14,12 +14,8 @@ Welcome to the Racing Game with Obstacle Boxes! In this simple and exciting game
 
 3. **Objective**:
    - Your goal is to complete the race as quickly as possible without hitting any obstacle boxes.
-   - The game keeps track of your best time, so try to beat your own records.
 
-4. **Scoring**:
-   - The game does not have a traditional scoring system, but your performance is measured by the time it takes to complete the race.
-
-5. **Restart**:
+4. **Restart**:
    - If you collide with an obstacle box or want to start over, simply refresh the webpage to restart the game.
 
 ## Game Features
@@ -27,8 +23,6 @@ Welcome to the Racing Game with Obstacle Boxes! In this simple and exciting game
 - **Simple Gameplay**: This game is designed with simplicity in mind, making it accessible for players of all ages.
 
 - **Challenging Obstacles**: Navigate through a track filled with randomly placed obstacle boxes, adding an element of challenge to the game.
-
-- **Time Tracking**: Your best time is recorded, so you can compete with yourself to achieve the fastest completion time.
 
 - **Responsive Controls**: The car's controls are responsive and easy to grasp, ensuring an enjoyable gaming experience.
 
