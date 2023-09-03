@@ -32,8 +32,7 @@ If you have any feedback, suggestions, or encounter any issues while playing the
 
 ## Credits
 
-This game was developed by [Aagam Shah](https://github.com/aagam1090). Thanks to Aagam for creating this fun game!
-
+This game was developed by [Aagam Shah](https://github.com/aagam1090). 
 ## License
 
 This game is open-source and available under the [MIT License](LICENSE.md). Feel free to fork and modify the game according to your preferences.
